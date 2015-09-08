@@ -10099,9 +10099,9 @@
   "autolearn": true,
   "components": [
     [
-      [ "bum_wine", 6 ],
-      [ "wine_cabernet", 2 ],
-      [ "wine_noir", 2 ]
+      [ "bum_wine", 7 ],
+      [ "wine_cabernet", 5 ],
+      [ "wine_noir", 5 ]
     ],
     [
       [ "cola", 1 ]
